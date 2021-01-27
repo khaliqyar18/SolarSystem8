@@ -1,2 +1,11 @@
-package com.company;public class SUN {
+package com.company;
+
+public class SUN {
+
+    String size;
+    int Temp;
+    // String temp;
+    
+    String color;
+
 }
